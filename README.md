@@ -22,17 +22,6 @@ An interactive **music visualizer** built with JavaScript that reacts to audio f
 
 ---
 
-## Project Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/music-visualizer.git
-   cd music-visualizer
-   ```
-2. Open `index.html` in a browser:
-   - No additional setup is required. Just open the file and start visualizing.
-
----
-
 ## How to Use
 1. Select an audio file
 2. Press Play
