@@ -10,7 +10,7 @@ let audioContext, analyser, source, dataArray, bufferLength;
 let isPlaying = false;
 
 canvas.width = window.innerWidth * 0.8;
-canvas.height = 300;
+canvas.height = 400;
 
 audio.addEventListener('timeupdate', updateTrackbar);
 audio.addEventListener('ended', onAudioEnded);
